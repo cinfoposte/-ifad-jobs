@@ -248,7 +248,7 @@ def generate_rss_feed(jobs, output_file='ifad_jobs.xml'):
 
     # Add atom:link for self-reference
     atom_link = ET.SubElement(channel, '{http://www.w3.org/2005/Atom}link')
-    atom_link.set('href', 'https://cinfoposte.github.io/ifad-jobs/ifad_jobs.xml')
+    atom_link.set('href', 'https://cinfoposte.github.io/-ifad-jobs/ifad_jobs.xml')
     atom_link.set('rel', 'self')
     atom_link.set('type', 'application/rss+xml')
 

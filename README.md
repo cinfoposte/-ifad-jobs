@@ -3,7 +3,7 @@
 Automated RSS feed generator for job listings from the International Fund for Agricultural Development (IFAD).
 
 ## RSS Feed URL
-**Live Feed:** `https://cinfoposte.github.io/ifad-jobs/ifad_jobs.xml`
+**Live Feed:** `https://cinfoposte.github.io/-ifad-jobs/ifad_jobs.xml`
 
 ## About
 This scraper automatically fetches job listings from [IFAD Careers](https://job.ifad.org) and generates an RSS 2.0 compliant feed that updates twice weekly.
@@ -61,5 +61,5 @@ The International Fund for Agricultural Development (IFAD) is an international f
 ---
 
 **Created by:** cinfoposte
-**GitHub:** https://github.com/cinfoposte/ifad-jobs
+**GitHub:** https://github.com/cinfoposte/-ifad-jobs
 **License:** MIT
